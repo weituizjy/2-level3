@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Level3</string>
+    <string name="text_big">廖老师是大卷怪</string>
+    <string name="text_guo">郭祥瑞也是大卷怪</string>
+    <string name="text_red">红岩最不卷的是王中泰</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
